@@ -11,6 +11,8 @@
 * Advanced Algorithm : travelling salesman problem
 * Machine learning: certification Stanford machine learning
 * Azure Certification: AZ-900  
+
+
 <!--
 **Victorien-Goudeau/Victorien-Goudeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
