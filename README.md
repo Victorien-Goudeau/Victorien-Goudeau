@@ -2,7 +2,7 @@
 
 ⚡ About Me: 
 
-* I'm currently working at SQLI as developper for SPA, LaCimade & EduService. 
+* I'm currently working at SQLI as full stack developper. 
 * i'm studying at CESI Engineering School in computer Science. 
 * I'm passionate about the artificial intelligence 
 * If you want to see more about me, you can check my LinkedIn in my Bio ! 
