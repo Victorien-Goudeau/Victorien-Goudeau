@@ -8,9 +8,16 @@
 * If you want to see more about me, you can check my LinkedIn in my Bio ! 
 
 🔭 I’m currently working on : 
-* Advanced Algorithm : travelling salesman problem
-* Machine learning: certification Stanford machine learning
-* Azure Certification: AZ-900  
+1. **VoxAI** - A music streaming project based on emotion-based music generation to influence human emotions 🎵
+2. **MyAccessibility** - An application for accessibility for people with disabilities :accessibility:
+
+
+ 🧰 Competencies
+ * Architecture : Clean Architecture, DDD
+ * Langages : C#, Python, Javascript, C++
+ * Frameworks/Librairies : .Net, Tensorflow, PyTorch, Node.js, Blazor, ASP .NET, React, Angular 
+ * Database : SQL Server, Cosmos DB, MongoDB, Postgre
+ * Other : Git, Azure, Docker
 
 
 <!--
